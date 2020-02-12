@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddde0cc-fa86-496b-8544-bce5146d172a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task03/task0318/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task03/task0319/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581277603776</updated>
     </task>
+    <task id="LOCAL-00001" summary="The second commit on task03 at task0319">
+      <created>1581466402804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581466402804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,11 +151,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The second commit on task03 at task0319" />
+    <option name="LAST_COMMIT_MESSAGE" value="The second commit on task03 at task0319" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1581466401482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581466401482" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1581465170379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581465170379" />
+    <state x="552" y="261" key="Github.ShareDialog" timestamp="1581466617343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1581466617343" />
     <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1581466209965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
